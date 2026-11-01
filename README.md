@@ -15,6 +15,8 @@ evals/<사례 이름>/graders/        잘 됐는지 판단하는 기준
 ## 들어 있는 스킬
 
 - `witsttcpw`: 막혔을 때 작동할 수 있는 가장 단순한 것부터 만들게 합니다. 이름은 What Is The Simplest Thing That Could Possibly Work의 머리글자입니다.
+- `recap`: 이것저것 말한 뒤 부르면, 내 목표와 풀려는 문제를 AI가 이해한 대로 짧게 요약합니다.
+- `askme`: 아무렇게나 말해도 알맞은 질문을 AskUserQuestion으로 던져, 내 기획이나 문제 정의를 정리해 줍니다.
 
 ## Claude에게 보낼 문장
 
